@@ -1,5 +1,11 @@
-iniciar python con el comando 
+# Instalacion 
 
->$ src/python.app
+1. Instalar las dependencias del proyecto con
 
-ejecutar el query que deje en un block de notas en mysql.
+> pip install -r requirements.txt
+
+2. Ejecutar el query en `init_db.SQL` para inicializar la base de datos MySQL.
+
+2. Iniciar la aplicacion flask con el comando 
+
+> python app.py

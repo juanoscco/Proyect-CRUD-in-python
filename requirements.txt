@@ -1,0 +1,4 @@
+# Usar pip install -r requirements.txt
+flask
+flask-mysqldb
+flake8
